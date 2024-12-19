@@ -8,11 +8,11 @@ Multi-view reconstruction of the surfel model, smoothing and compression of the 
 
 Whether to use cross-view smooth (upper: with cross-view term, bottom: without cross-view term)
 
-![](docs/cross view comparison.gif)
+![](docs/CrossViewComparison.gif)
 
 Whether to use adaptive correction. (upper: with adaptive correction, bottom: without adaptive correction)
 
-![](docs/Adeptive Correction.gif)
+![](docs/AdaptiveCorrection.gif)
 
 Our method is compared with SurfelWarp under single view condition (upper: our method, bottom: SurfelWarp).
 
