@@ -2,21 +2,21 @@
 
 Multi-view reconstruction of the surfel model, smoothing and compression of the surfel model cross-view junction, adaptive correction of the tracking failure of the surfel model caused by major topology changes.
 
-<img src="docs/rawImage.gif" style="zoom:80%;" /> <img src="docs/Phong.gif" style="zoom:80%;" /> <img src="docs/Normal.gif" style="zoom:80%;" />
+![](docs/ResultOutput.gif)
 
 
 
 Whether to use cross-view smooth (upper: with cross-view term, bottom: without cross-view term)
 
-<img src="docs/cross view comparison.gif" style="zoom:80%;" />
+![](docs/cross view comparison.gif)
 
 Whether to use adaptive correction. (upper: with adaptive correction, bottom: without adaptive correction)
 
-<img src="docs/Adeptive Correction.gif" style="zoom:80%;" />
+![](docs/Adaptive Correction.gif)
 
 Our method is compared with SurfelWarp under single view condition (upper: our method, bottom: SurfelWarp).
 
-<img src="docs/SingleViewComparison.gif" style="zoom:80%;" />
+![](docs/SingleViewComparison.gif)
 
 Our Dataset can be found at: https://pan.baidu.com/s/1LDGWGoAHXkRNgB_auW2YeA?pwd=pv1s  download code: pv1s 
 
