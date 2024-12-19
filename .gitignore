@@ -15,7 +15,6 @@
 *.vcxproj.user
 *.hint
 *.json
-*.txt
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
