@@ -36,9 +36,6 @@
 #include "GLShaderProgram.h"
 #include "GLRenderMaps.h"
 
-#define USE_DYNAMICAL_REFRESH
-
-
 static glm::vec3 box[68] = {	
 	// x÷·								x÷·—’…´
 	{ 0.0f,   0.0f,   0.0f },			{1.0f,   0.0f,   0.0f},

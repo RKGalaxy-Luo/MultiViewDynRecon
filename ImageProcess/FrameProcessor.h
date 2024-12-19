@@ -40,9 +40,6 @@
 
 #define A_IMAGEPROCESSOR_NEED_CUDA_STREAM 4		// 每一个图片最多需要流的数量
 
-#define USE_OPTICALFLOW_CORRESPONDENCE_PAIRS
-//#define WITH_NODE_CORRECTION
-
 namespace SparseSurfelFusion {
 	class FrameProcessor
 	{
